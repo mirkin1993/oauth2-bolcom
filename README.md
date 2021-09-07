@@ -38,4 +38,4 @@ $ ./vendor/bin/phpunit
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/mirkin1993/oauth2-bolcom/blob/main/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/mirkin1993/oauth2-bolcom/blob/master/LICENSE) for more information.
